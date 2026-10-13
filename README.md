@@ -1,32 +1,29 @@
-# Hi, I'm Ingeet Adhikari
+<h1 align="center">Ingeet Adhikari</h1>
 
-Computer Science student at the **University of North Texas** (Class of 2028), based in Dallas–Fort Worth.  
-I like building things people can actually use, from 3D browser games to AI chatbots and command-line tools.
+<p align="center">
+  <b>Computer Science @ University of North Texas</b> · Class of 2028 · Dallas–Fort Worth<br/>
+  I build browser games, AI apps, and developer tools.
+</p>
 
-- **Currently:** studying systems programming, algorithms, and software engineering at UNT
-- **Looking for:** Software Engineering internships
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingeetadhikari">LinkedIn</a> ·
+  <a href="https://apex-coast.earthylamp16.chatgpt.site/">Play Apex Coast, my 3D multiplayer racing game</a>
+</p>
 
-## Featured Projects
+---
 
-| Project | What it is | Tech |
-|---|---|---|
-| [Apex Coast](https://apex-coast.earthylamp16.chatgpt.site/) | 3D multiplayer racing game that runs in the browser, with local, online (up to 8 drivers), and open-world modes | JavaScript, Three.js, WebGL |
-| [Ask Ingeet – AI Chatbot](https://github.com/ingeetadhikari/ai-chatbot) | Friendly AI chatbot with session memory and a clean web chat UI | Python, FastAPI, Claude API |
-| [Resume Assistant](https://github.com/BonySage/Resume-Assistant) | Team web app that matches a resume to a job post, scores ATS fit, and suggests better bullet points | JavaScript |
-| [Expense Tracker CLI](https://github.com/ingeetadhikari/expense-tracker-cli) | Terminal app to track income and expenses with monthly and category summaries | Python |
+### Right now
 
-## Tech I Use
+- Studying systems programming in Linux, algorithms, and software engineering at UNT
+- Building AI and full-stack projects with Python, FastAPI, and JavaScript
+- Looking for **Software Engineering internships**
 
-**Languages:** Python · C · C++ · Java · JavaScript · HTML/CSS  
-**Frameworks & Libraries:** FastAPI · Three.js · REST APIs  
-**Tools:** Git & GitHub · Linux
+### Toolkit
 
-## Background
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Undergraduate Research Assistant at Texas A&M International University, working on *Dogzilla*, a programmable robotic system
+### Background
+
+- Undergraduate Research Assistant, Texas A&M International University (research on *Dogzilla*, a programmable robotic system)
 - Dean's List and 100% tuition scholarship at TAMIU
 - Associate of Science, Collin College
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/ingeetadhikari)
