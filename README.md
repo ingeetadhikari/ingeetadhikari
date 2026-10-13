@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ingeetadhikari">LinkedIn</a> ·
-  <a href="https://apex-coast.earthylamp16.chatgpt.site/">Play Apex Coast, my 3D multiplayer racing game</a>
+  
 </p>
 
 ---
